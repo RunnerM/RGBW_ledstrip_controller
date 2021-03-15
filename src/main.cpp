@@ -5,8 +5,8 @@
 #define ONBOARD_LED 2
 
 char auth[] = "ZnABayXauLZkF4xKsn1gfcgXKnhY6Kfz";       // You should get Auth Token in the Blynk App.
-char ssid[] = "Asus_P";                    // Your Wi-Fi Credentials
-char pass[] = "Sz3xi@nett0604";
+char ssid[] = "SSID";                    // Your Wi-Fi Credentials
+char pass[] = "PASSWORD";
 
 int ledred = 13;
 int ledgreen = 12;
