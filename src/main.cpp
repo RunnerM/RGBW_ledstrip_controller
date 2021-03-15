@@ -4,7 +4,7 @@
 #include <BlynkSimpleEsp32.h>
 #define ONBOARD_LED 2
 
-char auth[] = "ZnABayXauLZkF4xKsn1gfcgXKnhY6Kfz";       // You should get Auth Token in the Blynk App.
+char auth[] = "BLYNK AUTH TOKEN";       // You should get Auth Token in the Blynk App.
 char ssid[] = "SSID";                    // Your Wi-Fi Credentials
 char pass[] = "PASSWORD";
 
